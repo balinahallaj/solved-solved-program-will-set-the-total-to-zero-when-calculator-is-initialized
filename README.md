@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-program-will-set-the-total-to-zero-when-calculator-is-initialized
+<br>
+This program will set the total to zero when Calculator is initialized. * It will do basic mathematics such as addition, subtraction, division, * and multiplication.It will take in any integer and do the calculation * with the total. It will update the total when ever any calculation is * being made. * When the total is being divided by zero, the total will be set to zero. * It will also print out all of the process made in the program so far.
